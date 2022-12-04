@@ -24,7 +24,7 @@ header .header-icons-container {
     width: 100%;
     height: 50px;
     display: grid;
-    background-color: #1e538f;
+    background-color: #65d0ad;
 }
 
 header .header-icons-container .icons {
@@ -36,4 +36,7 @@ header .header-icons-container .icons {
     justify-content: space-between;
     justify-self: end;
     margin-right: 50px;
+}
+header .icons span {
+    color: white;
 }
