@@ -4,11 +4,6 @@ body {
     font-family: 'Roboto Mono', monospace;
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
-    
-    
-=======
->>>>>>> 633b955ba07c3590a4a57c189ed5967ca203f24d
 }
 
 a {
@@ -22,6 +17,10 @@ a {
     bottom: 0;
     left: 0;
     right: 0;
+}
+.grid-container {
+    max-width: 980px;
+    margin: auto;
 }
 header {
     width: 100%;
@@ -151,7 +150,6 @@ nav .profile-link a {
     border: 1px solid #65d0ad;
     padding: 10px 15px;
     font-size: 12px;
-<<<<<<< HEAD
 }
 .blogs-posts-container .post-container {
     display: inline-block;
@@ -175,6 +173,4 @@ footer p {
     color: white;
     margin-top: 30px;
     text-align: center;
-=======
->>>>>>> 633b955ba07c3590a4a57c189ed5967ca203f24d
 }
